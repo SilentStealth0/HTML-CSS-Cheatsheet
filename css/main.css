@@ -9,6 +9,8 @@ html{
 
 header{
   font-family: 'Indie Flower', cursive;
+  background-color: #C8F6CC;
+  border-radius: 5px;
 }
 
 header h1{
