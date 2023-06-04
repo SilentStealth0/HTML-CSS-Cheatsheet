@@ -4,7 +4,7 @@ table,td,tr,th{
 }
 
 html{
-  background-color: paleturquoise;
+  background-color: #F2FEFF;
 }
 
 header{
@@ -17,4 +17,5 @@ h3{
 
 table{
   font-family: 'Chakra Petch', sans-serif;
+  background-color: white;
 }
