@@ -6,3 +6,15 @@ table,td,tr,th{
 html{
   background-color: paleturquoise;
 }
+
+header{
+  font-family: 'Indie Flower', cursive;
+}
+
+h3{
+  font-family: 'Indie Flower', cursive;
+}
+
+table{
+  font-family: 'Chakra Petch', sans-serif;
+}
