@@ -11,6 +11,16 @@ header{
   font-family: 'Indie Flower', cursive;
 }
 
+nav ul{
+  text-align: center;
+}
+nav ul li{
+  text-decoration: underline;
+  display: inline-flex;
+  position: relative;
+  font-size: 18px;
+}
+
 h3{
   font-family: 'Indie Flower', cursive;
 }
