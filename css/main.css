@@ -14,11 +14,11 @@ header{
 nav ul{
   text-align: center;
 }
-nav ul li{
+nav li{
   text-decoration: underline;
-  display: inline-flex;
-  position: relative;
   font-size: 18px;
+  display: inline;
+  margin-left: 40px;
 }
 
 h3{
