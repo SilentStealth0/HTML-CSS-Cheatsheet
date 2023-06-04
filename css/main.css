@@ -11,6 +11,9 @@ header{
   font-family: 'Indie Flower', cursive;
 }
 
+header h1{
+  margin-left: 10px;
+}
 nav ul{
   text-align: center;
 }
