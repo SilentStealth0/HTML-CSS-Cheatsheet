@@ -40,3 +40,7 @@ table{
   background-color: black;
   color: white;
 }
+/*TODO: Make text thicker*/
+td{
+  font-weight: 400;
+}
