@@ -34,3 +34,8 @@ table{
   font-family: 'Chakra Petch', sans-serif;
   background-color: white;
 }
+
+.tb_titles{
+  background-color: black;
+  color: white;
+}
