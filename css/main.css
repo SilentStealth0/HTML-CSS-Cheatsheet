@@ -2,7 +2,10 @@ table,td,tr,th{
   border: 2px solid black;
   border-collapse: collapse;
 }
+/*TODO: font face Orbitron*/
+@font-face {
 
+}
 html{
   background-color: #F2FEFF;
 }
