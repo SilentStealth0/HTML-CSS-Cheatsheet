@@ -4,8 +4,15 @@ table,td,tr,th{
 }
 /*TODO: font face Orbitron*/
 @font-face {
-
+  font-family: 'Orbitron';
+  src: url("css/Fonts/Orbitron/static/Orbitron-Regular.ttf");
 }
+
+@font-face {
+  font-family: 'Chakra Petch';
+  src: url("css/Fonts/Chakra_Petch/ChakraPetch-Medium.ttf");
+}
+
 html{
   background-color: #F2FEFF;
 }
