@@ -38,12 +38,24 @@ header h1{
 nav ul{
   text-align: center;
   margin-bottom: 8px;
+  cursor: pointer;
 }
 nav li{
   text-decoration: underline;
   font-size: 18px;
   display: inline;
   margin-left: 40px;
+}
+
+a{
+  color: black;
+}
+nav li a:hover{
+  color: #bbb6b6;
+}
+
+nav li a:active{
+  color: rebeccapurple;
 }
 
 h3{
