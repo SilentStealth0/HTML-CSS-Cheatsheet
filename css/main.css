@@ -2,8 +2,9 @@ table,td,tr,th{
   border: 2px solid black;
   border-collapse: collapse;
 }
-body{
-  margin-top: 0;
+html{
+  background-color: lightcyan;
+  scroll-behavior: smooth;
 }
 @font-face {
   font-family: 'Orbitron';
