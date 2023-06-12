@@ -59,13 +59,14 @@ nav li a:active{
 }
 
 h3{
-  font-family: 'Orbitron', Serif;
+  font-family: 'Orbitron', serif;
 }
 
 table{
   font-family: 'Chakra Petch', sans-serif;
   background-color: white;
   text-align: center;
+  margin: auto;
 }
 
 .tb_titles{
@@ -75,6 +76,9 @@ table{
 /*TODO: Make text thicker*/
 td{
   font-weight: 400;
+}
+tr{
+  line-height: 1.5;
 }
 
 .tables{
