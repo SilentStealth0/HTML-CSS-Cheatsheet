@@ -83,5 +83,9 @@ tr{
 }
 
 .tables{
-  margin-top: 115px;
+  margin-top: 57.5px;
+}
+
+#table_scroll{
+  padding-top: 45px;
 }
