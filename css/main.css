@@ -76,6 +76,9 @@ table{
 }
 
 /*TODO: Add tr :nth-child() here */
+tr:nth-child(even){
+  background-color: #E0FDE3;
+}
 
 td{
   font-weight: 400;
