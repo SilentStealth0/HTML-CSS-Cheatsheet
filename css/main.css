@@ -74,12 +74,30 @@ table{
   background-color: black;
   color: white;
 }
-/*TODO: Make text thicker*/
+
+/*TODO: Add tr :nth-child() here */
+
 td{
   font-weight: 400;
 }
 tr{
   line-height: 1.5;
+}
+
+.tables tr:hover {
+  background-color: #E1CDEE;
+}
+
+.Semantic_sec tr:hover {
+  background-color: #E1CDEE;
+}
+
+.selectors_specificity tr:hover{
+  background-color: #E1CDEE;
+}
+
+.colors tr:hover{
+  background-color: #E1CDEE;
 }
 
 .tables{
